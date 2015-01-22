@@ -45,7 +45,6 @@
 	<footer class="footer" role="contentinfo">
 		<div class="row">
 			<div class="large-12 columns">
-				<h1>$BaseHref</h1>
 				<p>&copy; $Now.Year $SiteConfig.Title</p>
 			</div>
 		</div>

@@ -1,5 +1,6 @@
-@import "settings";
-@import "../bower_components/foundation/scss/foundation.scss";
+@import "configuration/colors";
+@import "configuration/mixins";
+@import "configuration/settings";
 
 .typography {
     padding: 18px 20px;

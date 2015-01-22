@@ -1,8 +1,17 @@
-@import "settings";
-@import "../bower_components/foundation/scss/foundation.scss";
+@import "configuration/colors";
+@import "configuration/mixins";
+@import "configuration/settings";
+
+@import "foundation/foundation";
+@import "foundation/normalize";
+
+@import "layouts/*";
+
+@import "modules/*";
+
 
 .main {
-	background: lime;
+	// background: lime;
 	// background: red;
 	padding-top: 32px;
 	min-height: 320px;

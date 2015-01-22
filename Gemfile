@@ -9,4 +9,5 @@ group :development do
   gem "guard-livereload"
   gem "rb-fsevent"
   # gem 'ruby_gntp' # https://github.com/guard/guard/wiki/System-notifications
+  gem "sass-globbing"
 end

@@ -8,7 +8,7 @@
 
 ```$ ln -s [code directory] [apached served directory]```
 
-```$ composer install```
+```$ composer install``` or `$ composer update`
 
 ```$ bundle install```
 
