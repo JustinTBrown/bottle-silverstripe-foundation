@@ -1,0 +1,9 @@
+@import "settings";
+@import "../bower_components/foundation/scss/foundation.scss";
+
+.main {
+	background: lime;
+	// background: red;
+	padding-top: 32px;
+	min-height: 320px;
+}
