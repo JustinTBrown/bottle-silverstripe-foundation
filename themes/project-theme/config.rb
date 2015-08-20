@@ -12,7 +12,7 @@ sass_dir = 'scss'
 js_dir = 'javascript'
 img_dir = 'images'
 
-add_import_path "bower_components/foundation/scss/foundation"
+add_import_path "bower_components/foundation/scss"
 
 # You can select your preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
