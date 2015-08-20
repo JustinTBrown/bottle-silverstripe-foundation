@@ -13,7 +13,6 @@ cms
 framework
 node_modules
 mysite/_config.php
-themes/foundation/.git
-themes/foundation/bower_components
-themes/foundation/bower.json
+themes/project-theme/.git
+themes/project-theme/bower_components
 
