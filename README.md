@@ -18,6 +18,7 @@
 
 - Create new database
 - ```Grant all on DB_NAME.* to 'DB_USER'@'localhost' identified by 'DB_PASS' with grant option; flush privileges;```
+- Add local db credentials to `_config.php`
 
 ## Dev Environment
 
