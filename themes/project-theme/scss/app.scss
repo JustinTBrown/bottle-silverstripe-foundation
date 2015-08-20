@@ -1,9 +1,10 @@
 @import "configuration/colors";
 @import "configuration/mixins";
 @import "configuration/settings";
+@import "configuration/foundation";
 
-@import "foundation/foundation";
-@import "foundation/normalize";
+// @import "foundation/foundation";
+// @import "foundation/normalize";
 
 @import "layouts/*";
 

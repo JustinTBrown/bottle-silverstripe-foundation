@@ -7,10 +7,10 @@ require "sass-globbing"
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = '/css'
-sass_dir = '/scss'
-js_dir = '/javascript'
-img_dir = '/images'
+css_dir = 'css'
+sass_dir = 'scss'
+js_dir = 'javascript'
+img_dir = 'images'
 
 add_import_path "bower_components/foundation/scss/foundation"
 
