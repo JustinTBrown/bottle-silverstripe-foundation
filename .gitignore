@@ -13,6 +13,7 @@ cms
 framework
 node_modules
 mysite/_config.php
-themes/project-theme/.git
-themes/project-theme/bower_components
+themes/*/.sass-cache
+themes/*/bower_components
+
 
