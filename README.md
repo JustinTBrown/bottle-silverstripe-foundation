@@ -10,6 +10,7 @@
 - IMPORTANT - `cd` into the new code directory and remove the old .git: `rm -R .git`
 - Then initalize a new repo with `git init` and set up your new project.
 - ```$ ln -s [code directory] [apached served directory]```
+- ```$ composer self-update```
 - ```$ composer install``` or `$ composer update` (you may want to run `$ composer self-update` first if it's been a while)
 - ```$ bundle install```
 - `$ cd [project-theme directory]` and then `$ bower update` to download Foundation 5 and it's dependencies.
